@@ -1,0 +1,7 @@
+room
+negative
+hotel
+small
+rooms
+staff
+bed
